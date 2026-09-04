@@ -7,7 +7,7 @@ about:
   head: f4523ad
   archived: false
   latestVersion: v0.4.10
-  collectedAt: 2026-09-04T19:58:52Z
+  collectedAt: 2026-09-04T20:46:59Z
 timeline:
   created: 2015-10-01
   lastCommit: 2026-09-02
@@ -84,6 +84,74 @@ total:
   openIssue: 48
   commit: 642
 ---
+path: /home/runner/.x-repo/github.com/goss-org/goss
+collectedAt: 2026-09-04T20:47:00Z
+loc:
+  Go:
+    code: 14410
+    comments: 614
+    blanks: 2079
+    files: 142
+  Yaml:
+    code: 4264
+    comments: 108
+    blanks: 175
+    files: 81
+  Sh:
+    code: 480
+    comments: 68
+    blanks: 115
+    files: 14
+  Bash:
+    code: 238
+    comments: 13
+    blanks: 28
+    files: 2
+  Makefile:
+    code: 133
+    comments: 3
+    blanks: 35
+    files: 1
+  Xml:
+    code: 26
+    comments: 0
+    blanks: 1
+    files: 1
+  Bitbake:
+    code: 18
+    comments: 0
+    blanks: 0
+    files: 1
+  PowerShell:
+    code: 18
+    comments: 2
+    blanks: 0
+    files: 1
+  Css:
+    code: 12
+    comments: 0
+    blanks: 3
+    files: 1
+  Dockerfile:
+    code: 5
+    comments: 0
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1521
+    blanks: 596
+    files: 20
+  Text:
+    code: 0
+    comments: 5
+    blanks: 0
+    files: 4
+total:
+  code: 20104
+  comments: 2404
+  blanks: 3055
+  files: 269
 ---
 date: "2026-08-24"
 repo:
