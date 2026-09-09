@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.4.10"
   latestRelease: "v0.4.10"
   latestPrerelease: "v0.4.0-rc.3"
-  collectedAt: 2026-09-09T06:19:13Z
+  collectedAt: 2026-09-09T20:38:52Z
 timeline:
   created: 2015-10-01
   lastCommit: 2026-09-06
@@ -87,7 +87,7 @@ total:
   commit: 643
 ---
 path: /home/runner/.x-repo/github.com/goss-org/goss
-collectedAt: 2026-09-09T06:19:14Z
+collectedAt: 2026-09-09T20:38:53Z
 loc:
   Go:
     code: 14410
