@@ -1,0 +1,417 @@
+- repo: kali_rolling
+  subrepo: main
+  srcname: goss
+  binnames:
+    - goss
+  visiblename: goss
+  version: 0.4.10
+  origversion: 0.4.10-1
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - lena@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot/main
+  srcname: goss
+  binnames:
+    - goss
+  visiblename: goss
+  version: 0.4.9
+  origversion: 0.4.9-2
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - lena.voytek@canonical.com
+  categories:
+    - misc
+- repo: raspbian_stable
+  subrepo: main
+  srcname: goss
+  binnames:
+    - goss
+  visiblename: goss
+  version: 0.4.9
+  origversion: 0.4.9-2
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - lena.voytek@canonical.com
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: goss
+  binnames:
+    - goss
+  visiblename: goss
+  version: 0.4.10
+  origversion: 0.4.10-1
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - lena@debian.org
+  categories:
+    - misc
+- repo: aur
+  srcname: goss-bin
+  binname: goss-bin
+  visiblename: goss-bin
+  version: 0.4.9
+  origversion: 0.4.9-1
+  status: outdated
+  summary: Quick and Easy server testing/validation
+  maintainers:
+    - webcaptcha@aur
+  licenses:
+    - Apache
+- repo: debian_13
+  subrepo: trixie/main
+  srcname: goss
+  binnames:
+    - goss
+  visiblename: goss
+  version: 0.4.9
+  origversion: 0.4.9-2
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - lena.voytek@canonical.com
+  categories:
+    - misc
+- repo: debian_14
+  subrepo: forky/main
+  srcname: goss
+  binnames:
+    - goss
+  visiblename: goss
+  version: 0.4.10
+  origversion: 0.4.10-1
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - lena@debian.org
+  categories:
+    - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: goss
+  binnames:
+    - goss
+  visiblename: goss
+  version: 0.4.10
+  origversion: 0.4.10-1
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - lena@debian.org
+  categories:
+    - misc
+- repo: deepin_25
+  subrepo: community
+  srcname: goss
+  binnames:
+    - goss
+  visiblename: goss
+  version: 0.4.9
+  origversion: 0.4.9-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - lena.voytek@canonical.com
+  categories:
+    - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: goss
+  binnames:
+    - goss
+  visiblename: goss
+  version: 0.4.10
+  origversion: 0.4.10-1
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - lena@debian.org
+  categories:
+    - misc
+- repo: epel_10
+  srcname: goss
+  binnames:
+    - goss
+    - goss-debuginfo
+    - goss-debugsource
+  visiblename: goss
+  version: 0.4.10
+  origversion: 0.4.10-1.el10_3
+  status: newest
+  summary: Quick and Easy server testing/validation
+  licenses:
+    - Apache-2.0 AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: updates
+  srcname: goss
+  binnames:
+    - goss
+    - goss-debuginfo
+    - goss-debugsource
+  visiblename: goss
+  version: 0.4.9
+  origversion: 0.4.9-1.fc43
+  status: outdated
+  summary: Quick and Easy server testing/validation
+  licenses:
+    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0
+  categories:
+    - Unspecified
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: goss
+  binnames:
+    - goss
+  visiblename: goss
+  version: 0.4.9
+  origversion: 0.4.9-2
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - lena.voytek@canonical.com
+  categories:
+    - admin
+- repo: fedora_44
+  subrepo: release
+  srcname: goss
+  binnames:
+    - goss
+    - goss-debuginfo
+    - goss-debugsource
+  visiblename: goss
+  version: 0.4.9
+  origversion: 0.4.9-3.fc44
+  status: outdated
+  summary: Quick and Easy server testing/validation
+  licenses:
+    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0
+  categories:
+    - Unspecified
+- repo: fedora_rawhide
+  subrepo: development
+  srcname: goss
+  binnames:
+    - goss
+    - goss-debuginfo
+    - goss-debugsource
+  visiblename: goss
+  version: 0.4.10
+  origversion: 0.4.10-1.fc45
+  status: newest
+  summary: Quick and Easy server testing/validation
+  licenses:
+    - Apache-2.0 AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0
+  categories:
+    - Unspecified
+- repo: macports
+  srcname: sysutils/goss
+  binname: goss
+  visiblename: goss
+  version: 0.4.10
+  origversion: null
+  status: newest
+  summary: Quick and Easy server testing/validation
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - Apache-2
+  categories:
+    - sysutils
+- repo: nix_stable_24_05
+  srcname: goss
+  visiblename: goss
+  version: 0.4.7
+  origversion: null
+  status: outdated
+  summary: Quick and easy server validation
+  maintainers:
+    - hyzual@gmail.com
+    - hello+nixpkgs@j-k.io
+    - anthony@roussel.dev
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: goss
+  visiblename: goss
+  version: 0.4.9
+  origversion: null
+  status: outdated
+  summary: Quick and easy server validation
+  maintainers:
+    - hyzual@gmail.com
+    - hello+nixpkgs@j-k.io
+    - anthony@roussel.dev
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: goss
+  visiblename: goss
+  version: 0.4.9
+  origversion: null
+  status: outdated
+  summary: Quick and easy server validation
+  maintainers:
+    - hyzual@gmail.com
+    - hello+nixpkgs@j-k.io
+    - anthony@roussel.dev
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: goss
+  visiblename: goss
+  version: 0.4.9
+  origversion: null
+  status: outdated
+  summary: Quick and easy server validation
+  maintainers:
+    - hyzual@gmail.com
+    - hello+nixpkgs@j-k.io
+    - anthony@roussel.dev
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: goss
+  visiblename: goss
+  version: 0.4.9
+  origversion: null
+  status: outdated
+  summary: Quick and easy server validation
+  maintainers:
+    - hyzual@gmail.com
+    - hello+nixpkgs@j-k.io
+    - anthony@roussel.dev
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: goss
+  visiblename: goss
+  version: 0.4.9
+  origversion: null
+  status: outdated
+  summary: Quick and easy server validation
+  maintainers:
+    - hyzual@gmail.com
+    - hello+nixpkgs@j-k.io
+    - anthony@roussel.dev
+  licenses:
+    - Apache-2.0
+- repo: opensuse_leap_15_5
+  subrepo: main/oss
+  srcname: goss
+  visiblename: goss
+  version: 0.3.18
+  origversion: 0.3.18-bp155.1.10
+  status: outdated
+  summary: Quick and Easy server testing/validation
+  licenses:
+    - Apache-2.0
+  categories:
+    - Development/Tools/Other
+- repo: opensuse_leap_15_6
+  subrepo: main/oss
+  srcname: goss
+  visiblename: goss
+  version: 0.3.23
+  origversion: 0.3.23-bp156.1.13
+  status: outdated
+  summary: Quick and Easy server testing/validation
+  licenses:
+    - Apache-2.0
+  categories:
+    - Development/Tools/Other
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: goss
+  binnames:
+    - goss
+    - goss-debuginfo
+    - goss-debugsource
+  visiblename: goss
+  version: 0.4.9
+  origversion: 0.4.9-2.7
+  status: outdated
+  summary: Quick and Easy server testing/validation
+  licenses:
+    - Apache-2.0
+  categories:
+    - Development/Tools/Other
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: goss
+  binnames:
+    - goss
+  visiblename: goss
+  version: 0.4.9
+  origversion: 0.4.9-2
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - lena.voytek@canonical.com
+  categories:
+    - misc
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: goss
+  binnames:
+    - goss
+  visiblename: goss
+  version: 0.4.9
+  origversion: 0.4.9-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - lena.voytek@canonical.com
+  categories:
+    - universe/misc
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: goss
+  binnames:
+    - goss
+  visiblename: goss
+  version: 0.4.9
+  origversion: 0.4.9-2
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - lena.voytek@canonical.com
+  categories:
+    - universe/misc
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: goss
+  binnames:
+    - goss
+  visiblename: goss
+  version: 0.4.9
+  origversion: 0.4.9-3
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - lena.voytek@canonical.com
+  categories:
+    - universe/misc
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: goss
+  binnames:
+    - goss
+  visiblename: goss
+  version: 0.4.10
+  origversion: 0.4.10-1
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - lena@debian.org
+  categories:
+    - universe/misc
