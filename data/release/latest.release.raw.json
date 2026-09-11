@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4779,
       "digest": "sha256:e14e961dd6efd626d0d0d0a74914047c72913d4194495b561171516d3ed132d4",
-      "download_count": 276,
+      "download_count": 280,
       "created_at": "2026-07-26T18:32:44Z",
       "updated_at": "2026-07-26T18:32:45Z",
       "browser_download_url": "https://github.com/goss-org/goss/releases/download/v0.4.10/dcgoss"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 73,
       "digest": "sha256:28df9949593ed14090d5f0d414d1189d21a71b0b98ffec8af2969d15a6340bc7",
-      "download_count": 262,
+      "download_count": 266,
       "created_at": "2026-07-26T18:32:44Z",
       "updated_at": "2026-07-26T18:32:44Z",
       "browser_download_url": "https://github.com/goss-org/goss/releases/download/v0.4.10/dcgoss.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5796,
       "digest": "sha256:3bb3ac9df33eeab8ce71a35763f4a69582eceb7db7bf02b4d0a551e72c7a888d",
-      "download_count": 25660,
+      "download_count": 25803,
       "created_at": "2026-07-26T18:32:44Z",
       "updated_at": "2026-07-26T18:32:44Z",
       "browser_download_url": "https://github.com/goss-org/goss/releases/download/v0.4.10/dgoss"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 72,
       "digest": "sha256:2785f4d2fdd02125ee44e3fb973eb3fe11c5a97d7e595dd7aeb17cd7f74a0b08",
-      "download_count": 4543,
+      "download_count": 4559,
       "created_at": "2026-07-26T18:32:44Z",
       "updated_at": "2026-07-26T18:32:44Z",
       "browser_download_url": "https://github.com/goss-org/goss/releases/download/v0.4.10/dgoss.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5964071,
       "digest": "sha256:3e5b0ff38ef1b005ee8c5e048cf8d44d700ae7529628f210bd60bff2adaf3e34",
-      "download_count": 292,
+      "download_count": 295,
       "created_at": "2026-07-26T18:32:42Z",
       "updated_at": "2026-07-26T18:32:42Z",
       "browser_download_url": "https://github.com/goss-org/goss/releases/download/v0.4.10/goss_0.4.10_darwin_arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 5770652,
       "digest": "sha256:90a59612b4d67d9f1a9038634c000790136bb82526a69de1e81ac075c2f6d2c6",
-      "download_count": 7835,
+      "download_count": 7897,
       "created_at": "2026-07-26T18:32:42Z",
       "updated_at": "2026-07-26T18:32:42Z",
       "browser_download_url": "https://github.com/goss-org/goss/releases/download/v0.4.10/goss_0.4.10_linux_arm64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 6340527,
       "digest": "sha256:26e365428946294bcec0c61d867bb3c8349f39feb3d0e6f59084e98632785cc7",
-      "download_count": 41866,
+      "download_count": 42339,
       "created_at": "2026-07-26T18:32:43Z",
       "updated_at": "2026-07-26T18:32:44Z",
       "browser_download_url": "https://github.com/goss-org/goss/releases/download/v0.4.10/goss_0.4.10_linux_x86_64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 878,
       "digest": "sha256:0626e958147fe0d84e8c4bea9fd3e0d7aed89ea4a7075cb758d49cf149d27ad3",
-      "download_count": 5655,
+      "download_count": 5681,
       "created_at": "2026-07-26T18:32:44Z",
       "updated_at": "2026-07-26T18:32:44Z",
       "browser_download_url": "https://github.com/goss-org/goss/releases/download/v0.4.10/goss_0.4.10_SHA256SUMS"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 6497503,
       "digest": "sha256:d4627639a75d52c26436add069553dbdae9fc4045dd832f26c70736f2f26f458",
-      "download_count": 1313,
+      "download_count": 1330,
       "created_at": "2026-07-26T18:32:42Z",
       "updated_at": "2026-07-26T18:32:42Z",
       "browser_download_url": "https://github.com/goss-org/goss/releases/download/v0.4.10/goss_0.4.10_windows_x86_64.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 9236,
       "digest": "sha256:9ee855f389a7859b0141ff7dfe9afe4b0bbf66bc0de6aaa28aff94cbdcf2ebd3",
-      "download_count": 180,
+      "download_count": 181,
       "created_at": "2026-07-26T18:32:44Z",
       "updated_at": "2026-07-26T18:32:44Z",
       "browser_download_url": "https://github.com/goss-org/goss/releases/download/v0.4.10/kgoss"
