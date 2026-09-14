@@ -14,11 +14,11 @@ x install goss
 
 ## Code insight
 
-Total: **19,604** lines of code across **240** files in the top 5 languages.
+Total: **19,794** lines of code across **241** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 14,410 | 614 | 2,079 | 142 |
+| Go | 14,600 | 641 | 2,114 | 143 |
 | Yaml | 4,264 | 108 | 175 | 81 |
 | Sh | 480 | 68 | 115 | 14 |
 | Bash | 238 | 13 | 28 | 2 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,966 · **Forks**: 499 · **Open issues**: 504 · **Contributors**: 137
+- **Stars**: 5,965 · **Forks**: 500 · **Open issues**: 504 · **Contributors**: 137
 
 ## Totals (cumulative)
 
-- **Releases**: 74 · **Merged PRs**: 424 · **Open PRs**: 12 · **Closed issues**: 455 · **Open issues**: 49 · **Commits**: 645
+- **Releases**: 74 · **Merged PRs**: 427 · **Open PRs**: 10 · **Closed issues**: 455 · **Open issues**: 49 · **Commits**: 648
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 14 | 5 | 1 | 1 | 13 |
-| last60d | 2026-07-15 | 1 | 32 | 7 | 5 | 5 | 45 |
-| 90d | 2026-06-15 | 1 | 36 | 7 | 6 | 5 | 53 |
-| last180d | 2026-03-17 | 1 | 47 | 8 | 8 | 5 | 58 |
-| 360d | 2025-09-18 | 1 | 51 | 10 | 8 | 7 | 58 |
-| last720d | 2024-09-23 | 2 | 65 | 12 | 21 | 17 | 69 |
+| 30d | 2026-08-15 | 0 | 11 | 3 | 1 | 1 | 16 |
+| last60d | 2026-07-16 | 1 | 35 | 5 | 5 | 5 | 48 |
+| 90d | 2026-06-16 | 1 | 39 | 5 | 6 | 5 | 56 |
+| last180d | 2026-03-18 | 1 | 50 | 6 | 8 | 5 | 61 |
+| 360d | 2025-09-19 | 1 | 54 | 8 | 8 | 7 | 61 |
+| last720d | 2024-09-24 | 2 | 67 | 10 | 20 | 17 | 72 |
 
 ## Release assets
 
@@ -86,20 +86,6 @@ Lowest-scoring checks:
 | [kgoss](https://github.com/goss-org/goss/releases/download/v0.4.10/kgoss) | 9.0 KiB | `other` |
 | [kgoss.sha256](https://github.com/goss-org/goss/releases/download/v0.4.10/kgoss.sha256) | 72 B | `other` |
 
-## Distribution status
-
-Reported by **30** distros on [repology.org](https://repology.org/project/goss). **9** are ✅ on the latest upstream release, **21** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.4.10` | ✅ latest |
-| Debian 14 | `0.4.10` | ✅ latest |
-| Debian 13 | `0.4.9` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.4.9` | ⚠️ outdated |
-| Fedora rawhide | `0.4.10` | ✅ latest |
-| Nix unstable | `0.4.9` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.4.9` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for goss lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `goss` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -109,4 +95,4 @@ Install metadata for goss lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:29:30Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:41:30Z._

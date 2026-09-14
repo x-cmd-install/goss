@@ -14,11 +14,11 @@ x install goss
 
 ## 代码洞察
 
-合计: **19,604** 行代码（覆盖前 5 种语言、共 **240** 个文件）。
+合计: **19,794** 行代码（覆盖前 5 种语言、共 **241** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 14,410 | 614 | 2,079 | 142 |
+| Go | 14,600 | 641 | 2,114 | 143 |
 | Yaml | 4,264 | 108 | 175 | 81 |
 | Sh | 480 | 68 | 115 | 14 |
 | Bash | 238 | 13 | 28 | 2 |
@@ -48,22 +48,22 @@ x install goss
 
 ## 流行度
 
-- **Star**: 5,966 · **Fork**: 499 · **开放 issue**: 504 · **贡献者**: 137
+- **Star**: 5,965 · **Fork**: 500 · **开放 issue**: 504 · **贡献者**: 137
 
 ## 累计统计
 
-- **发布数**: 74 · **已合并 PR**: 424 · **开放 PR**: 12 · **已关闭 issue**: 455 · **开放 issue**: 49 · **提交数**: 645
+- **发布数**: 74 · **已合并 PR**: 427 · **开放 PR**: 10 · **已关闭 issue**: 455 · **开放 issue**: 49 · **提交数**: 648
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 14 | 5 | 1 | 1 | 13 |
-| last60d | 2026-07-15 | 1 | 32 | 7 | 5 | 5 | 45 |
-| 90d | 2026-06-15 | 1 | 36 | 7 | 6 | 5 | 53 |
-| last180d | 2026-03-17 | 1 | 47 | 8 | 8 | 5 | 58 |
-| 360d | 2025-09-18 | 1 | 51 | 10 | 8 | 7 | 58 |
-| last720d | 2024-09-23 | 2 | 65 | 12 | 21 | 17 | 69 |
+| 30d | 2026-08-15 | 0 | 11 | 3 | 1 | 1 | 16 |
+| last60d | 2026-07-16 | 1 | 35 | 5 | 5 | 5 | 48 |
+| 90d | 2026-06-16 | 1 | 39 | 5 | 6 | 5 | 56 |
+| last180d | 2026-03-18 | 1 | 50 | 6 | 8 | 5 | 61 |
+| 360d | 2025-09-19 | 1 | 54 | 8 | 8 | 7 | 61 |
+| last720d | 2024-09-24 | 2 | 67 | 10 | 20 | 17 | 72 |
 
 ## Release 资产
 
@@ -86,20 +86,6 @@ x install goss
 | [kgoss](https://github.com/goss-org/goss/releases/download/v0.4.10/kgoss) | 9.0 KiB | `other` |
 | [kgoss.sha256](https://github.com/goss-org/goss/releases/download/v0.4.10/kgoss.sha256) | 72 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/goss) 上共有 **30** 个发行版报告此项目。**9** 个 ✅ 已是最新上游版本，**21** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `0.4.10` | ✅ latest |
-| Debian 14 | `0.4.10` | ✅ latest |
-| Debian 13 | `0.4.9` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.4.9` | ⚠️ outdated |
-| Fedora rawhide | `0.4.10` | ✅ latest |
-| Nix unstable | `0.4.9` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.4.9` | ⚠️ outdated |
-
 ## 改进这些数据
 
 goss 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `goss` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -109,4 +95,4 @@ goss 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T06:29:31Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T06:41:31Z._
