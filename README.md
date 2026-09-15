@@ -14,11 +14,11 @@ x install goss
 
 ## Code insight
 
-Total: **19,794** lines of code across **241** files in the top 5 languages.
+Total: **19,803** lines of code across **241** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 14,600 | 641 | 2,114 | 143 |
+| Go | 14,609 | 644 | 2,112 | 143 |
 | Yaml | 4,264 | 108 | 175 | 81 |
 | Sh | 480 | 68 | 115 | 14 |
 | Bash | 238 | 13 | 28 | 2 |
@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Security-Policy** (0/10) — security policy file not detected
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.4.10` (2026-07-26)
-- **Last commit**: 2026-09-13
+- **Last commit**: 2026-09-14
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 5,965 · **Forks**: 500 · **Open issues**: 504 · **Contributors**: 137
+- **Stars**: 5,968 · **Forks**: 501 · **Open issues**: 504 · **Contributors**: 138
 
 ## Totals (cumulative)
 
-- **Releases**: 74 · **Merged PRs**: 427 · **Open PRs**: 10 · **Closed issues**: 455 · **Open issues**: 49 · **Commits**: 648
+- **Releases**: 74 · **Merged PRs**: 430 · **Open PRs**: 9 · **Closed issues**: 456 · **Open issues**: 48 · **Commits**: 650
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 11 | 3 | 1 | 1 | 16 |
-| last60d | 2026-07-16 | 1 | 35 | 5 | 5 | 5 | 48 |
-| 90d | 2026-06-16 | 1 | 39 | 5 | 6 | 5 | 56 |
-| last180d | 2026-03-18 | 1 | 50 | 6 | 8 | 5 | 61 |
-| 360d | 2025-09-19 | 1 | 54 | 8 | 8 | 7 | 61 |
-| last720d | 2024-09-24 | 2 | 67 | 10 | 20 | 17 | 72 |
+| 30d | 2026-08-16 | 0 | 10 | 1 | 1 | 1 | 18 |
+| last60d | 2026-07-17 | 1 | 37 | 4 | 6 | 4 | 50 |
+| 90d | 2026-06-17 | 1 | 42 | 4 | 7 | 4 | 59 |
+| last180d | 2026-03-19 | 1 | 53 | 5 | 9 | 4 | 64 |
+| 360d | 2025-09-20 | 1 | 57 | 7 | 9 | 6 | 64 |
+| last720d | 2024-09-25 | 2 | 69 | 9 | 20 | 16 | 74 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for goss lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T06:41:30Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T06:56:13Z._
