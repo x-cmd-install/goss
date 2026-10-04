@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 74 · **Merged PRs**: 433 · **Open PRs**: 9 · **Closed issues**: 456 · **Open issues**: 48 · **Commits**: 653
+- **Releases**: 74 · **Merged PRs**: 433 · **Open PRs**: 11 · **Closed issues**: 456 · **Open issues**: 48 · **Commits**: 653
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 0 | 8 | 1 | 0 | 1 | 11 |
-| last60d | 2026-08-04 | 0 | 32 | 3 | 2 | 3 | 42 |
-| 90d | 2026-07-05 | 1 | 41 | 4 | 7 | 4 | 56 |
-| last180d | 2026-04-06 | 1 | 56 | 5 | 8 | 4 | 67 |
-| 360d | 2025-10-08 | 1 | 60 | 7 | 9 | 6 | 67 |
-| last720d | 2024-10-13 | 1 | 72 | 9 | 19 | 16 | 75 |
+| 30d | 2026-09-04 | 0 | 8 | 3 | 0 | 1 | 10 |
+| last60d | 2026-08-05 | 0 | 31 | 5 | 2 | 2 | 29 |
+| 90d | 2026-07-06 | 1 | 41 | 6 | 6 | 4 | 53 |
+| last180d | 2026-04-07 | 1 | 56 | 7 | 8 | 4 | 67 |
+| 360d | 2025-10-09 | 1 | 60 | 9 | 9 | 6 | 67 |
+| last720d | 2024-10-14 | 1 | 72 | 11 | 19 | 16 | 75 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for goss lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T06:34:04Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T07:11:36Z._
