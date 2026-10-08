@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 8 | 1 | 0 | 1 | 12 |
-| last60d | 2026-08-08 | 0 | 28 | 2 | 2 | 2 | 31 |
-| 90d | 2026-07-09 | 1 | 43 | 4 | 6 | 4 | 55 |
-| last180d | 2026-04-10 | 1 | 58 | 5 | 8 | 4 | 69 |
-| 360d | 2025-10-12 | 1 | 62 | 7 | 9 | 6 | 69 |
-| last720d | 2024-10-17 | 1 | 74 | 9 | 19 | 16 | 77 |
+| 30d | 2026-09-08 | 0 | 8 | 1 | 0 | 1 | 12 |
+| last60d | 2026-08-09 | 0 | 27 | 2 | 1 | 1 | 31 |
+| 90d | 2026-07-10 | 1 | 43 | 4 | 6 | 4 | 55 |
+| last180d | 2026-04-11 | 1 | 58 | 5 | 8 | 4 | 69 |
+| 360d | 2025-10-13 | 1 | 62 | 7 | 9 | 6 | 69 |
+| last720d | 2024-10-18 | 1 | 74 | 9 | 19 | 16 | 77 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for goss lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T07:23:45Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T07:31:46Z._
