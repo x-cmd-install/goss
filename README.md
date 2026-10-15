@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,988 · **Forks**: 502 · **Open issues**: 504 · **Contributors**: 138
+- **Stars**: 5,988 · **Forks**: 502 · **Open issues**: 505 · **Contributors**: 138
 
 ## Totals (cumulative)
 
-- **Releases**: 74 · **Merged PRs**: 436 · **Open PRs**: 10 · **Closed issues**: 456 · **Open issues**: 48 · **Commits**: 656
+- **Releases**: 74 · **Merged PRs**: 436 · **Open PRs**: 11 · **Closed issues**: 456 · **Open issues**: 49 · **Commits**: 656
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 6 | 2 | 0 | 0 | 6 |
-| last60d | 2026-08-15 | 0 | 19 | 3 | 1 | 1 | 24 |
-| 90d | 2026-07-16 | 1 | 43 | 5 | 6 | 4 | 56 |
-| last180d | 2026-04-17 | 1 | 57 | 5 | 8 | 4 | 70 |
-| 360d | 2025-10-19 | 1 | 62 | 8 | 9 | 6 | 70 |
-| last720d | 2024-10-24 | 1 | 75 | 10 | 17 | 16 | 78 |
+| 30d | 2026-09-15 | 0 | 6 | 3 | 0 | 1 | 6 |
+| last60d | 2026-08-16 | 0 | 16 | 3 | 1 | 2 | 24 |
+| 90d | 2026-07-17 | 1 | 43 | 6 | 6 | 5 | 56 |
+| last180d | 2026-04-18 | 1 | 57 | 6 | 8 | 5 | 70 |
+| 360d | 2025-10-20 | 1 | 62 | 9 | 9 | 7 | 70 |
+| last720d | 2024-10-25 | 1 | 75 | 11 | 17 | 17 | 78 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for goss lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T06:15:36Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:59:37Z._
