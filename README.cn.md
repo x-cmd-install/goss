@@ -48,22 +48,22 @@ x install goss
 
 ## 流行度
 
-- **Star**: 5,991 · **Fork**: 501 · **开放 issue**: 505 · **贡献者**: 138
+- **Star**: 5,991 · **Fork**: 501 · **开放 issue**: 506 · **贡献者**: 138
 
 ## 累计统计
 
-- **发布数**: 74 · **已合并 PR**: 438 · **开放 PR**: 12 · **已关闭 issue**: 456 · **开放 issue**: 49 · **提交数**: 658
+- **发布数**: 74 · **已合并 PR**: 438 · **开放 PR**: 12 · **已关闭 issue**: 456 · **开放 issue**: 50 · **提交数**: 658
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 8 | 4 | 0 | 1 | 8 |
-| last60d | 2026-08-23 | 0 | 16 | 4 | 1 | 2 | 23 |
-| 90d | 2026-07-24 | 1 | 42 | 6 | 5 | 5 | 53 |
-| last180d | 2026-04-25 | 1 | 57 | 7 | 8 | 5 | 72 |
-| 360d | 2025-10-27 | 1 | 64 | 10 | 9 | 7 | 72 |
-| last720d | 2024-11-01 | 1 | 77 | 12 | 17 | 17 | 80 |
+| 30d | 2026-09-23 | 0 | 8 | 4 | 0 | 2 | 8 |
+| last60d | 2026-08-24 | 0 | 15 | 4 | 1 | 3 | 23 |
+| 90d | 2026-07-25 | 1 | 40 | 6 | 5 | 6 | 53 |
+| last180d | 2026-04-26 | 1 | 57 | 7 | 8 | 6 | 72 |
+| 360d | 2025-10-28 | 1 | 64 | 10 | 9 | 8 | 72 |
+| last720d | 2024-11-02 | 1 | 76 | 12 | 17 | 18 | 80 |
 
 ## Release 资产
 
@@ -86,6 +86,20 @@ x install goss
 | [kgoss](https://github.com/goss-org/goss/releases/download/v0.4.10/kgoss) | 9.0 KiB | `other` |
 | [kgoss.sha256](https://github.com/goss-org/goss/releases/download/v0.4.10/kgoss.sha256) | 72 B | `other` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/goss) 上共有 **30** 个发行版报告此项目。**10** 个 ✅ 已是最新上游版本，**20** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `0.4.10` | ✅ latest |
+| Debian 14 | `0.4.10` | ✅ latest |
+| Debian 13 | `0.4.9` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `0.4.9` | ⚠️ outdated |
+| Fedora rawhide | `0.4.10` | ✅ latest |
+| Nix unstable | `0.4.10` | ✅ latest |
+| openSUSE Tumbleweed | `0.4.9` | ⚠️ outdated |
+
 ## 改进这些数据
 
 goss 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `goss` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -95,4 +109,4 @@ goss 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T06:03:45Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T06:10:20Z._

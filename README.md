@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,991 · **Forks**: 501 · **Open issues**: 505 · **Contributors**: 138
+- **Stars**: 5,991 · **Forks**: 501 · **Open issues**: 506 · **Contributors**: 138
 
 ## Totals (cumulative)
 
-- **Releases**: 74 · **Merged PRs**: 438 · **Open PRs**: 12 · **Closed issues**: 456 · **Open issues**: 49 · **Commits**: 658
+- **Releases**: 74 · **Merged PRs**: 438 · **Open PRs**: 12 · **Closed issues**: 456 · **Open issues**: 50 · **Commits**: 658
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 8 | 4 | 0 | 1 | 8 |
-| last60d | 2026-08-23 | 0 | 16 | 4 | 1 | 2 | 23 |
-| 90d | 2026-07-24 | 1 | 42 | 6 | 5 | 5 | 53 |
-| last180d | 2026-04-25 | 1 | 57 | 7 | 8 | 5 | 72 |
-| 360d | 2025-10-27 | 1 | 64 | 10 | 9 | 7 | 72 |
-| last720d | 2024-11-01 | 1 | 77 | 12 | 17 | 17 | 80 |
+| 30d | 2026-09-23 | 0 | 8 | 4 | 0 | 2 | 8 |
+| last60d | 2026-08-24 | 0 | 15 | 4 | 1 | 3 | 23 |
+| 90d | 2026-07-25 | 1 | 40 | 6 | 5 | 6 | 53 |
+| last180d | 2026-04-26 | 1 | 57 | 7 | 8 | 6 | 72 |
+| 360d | 2025-10-28 | 1 | 64 | 10 | 9 | 8 | 72 |
+| last720d | 2024-11-02 | 1 | 76 | 12 | 17 | 18 | 80 |
 
 ## Release assets
 
@@ -86,6 +86,20 @@ Lowest-scoring checks:
 | [kgoss](https://github.com/goss-org/goss/releases/download/v0.4.10/kgoss) | 9.0 KiB | `other` |
 | [kgoss.sha256](https://github.com/goss-org/goss/releases/download/v0.4.10/kgoss.sha256) | 72 B | `other` |
 
+## Distribution status
+
+Reported by **30** distros on [repology.org](https://repology.org/project/goss). **10** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `0.4.10` | ✅ latest |
+| Debian 14 | `0.4.10` | ✅ latest |
+| Debian 13 | `0.4.9` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `0.4.9` | ⚠️ outdated |
+| Fedora rawhide | `0.4.10` | ✅ latest |
+| Nix unstable | `0.4.10` | ✅ latest |
+| openSUSE Tumbleweed | `0.4.9` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for goss lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `goss` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -95,4 +109,4 @@ Install metadata for goss lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T06:03:42Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T06:10:19Z._
