@@ -1,31 +1,3 @@
-- repo: parrot
-  subrepo: parrot/main
-  srcname: goss
-  binnames:
-    - goss
-  visiblename: goss
-  version: 0.4.9
-  origversion: 0.4.9-2
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - lena.voytek@canonical.com
-  categories:
-    - misc
-- repo: pureos_landing
-  subrepo: landing/main
-  srcname: goss
-  binnames:
-    - goss
-  visiblename: goss
-  version: 0.4.9
-  origversion: 0.4.9-2
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - lena.voytek@canonical.com
-  categories:
-    - admin
 - repo: raspbian_stable
   subrepo: main
   srcname: goss
@@ -54,18 +26,20 @@
     - lena@debian.org
   categories:
     - misc
-- repo: aur
-  srcname: goss-bin
-  binname: goss-bin
-  visiblename: goss-bin
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: goss
+  binnames:
+    - goss
+  visiblename: goss
   version: 0.4.9
   origversion: 0.4.9-1
   status: outdated
-  summary: Quick and Easy server testing/validation
   maintainers:
-    - webcaptcha@aur
-  licenses:
-    - Apache
+    - team+pkg-go@tracker.debian.org
+    - lena.voytek@canonical.com
+  categories:
+    - universe/misc
 - repo: debian_13
   subrepo: trixie/main
   srcname: goss
@@ -94,6 +68,18 @@
     - lena@debian.org
   categories:
     - misc
+- repo: aur
+  srcname: goss-bin
+  binname: goss-bin
+  visiblename: goss-bin
+  version: 0.4.9
+  origversion: 0.4.9-1
+  status: outdated
+  summary: Quick and Easy server testing/validation
+  maintainers:
+    - webcaptcha@aur
+  licenses:
+    - Apache
 - repo: debian_unstable
   subrepo: sid/main
   srcname: goss
@@ -181,6 +167,22 @@
   summary: Quick and Easy server testing/validation
   licenses:
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0
+  categories:
+    - Unspecified
+- repo: fedora_45
+  subrepo: release
+  srcname: goss
+  binnames:
+    - goss
+    - goss-debuginfo
+    - goss-debugsource
+  visiblename: goss
+  version: 0.4.10
+  origversion: 0.4.10-1.fc45
+  status: newest
+  summary: Quick and Easy server testing/validation
+  licenses:
+    - Apache-2.0 AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0
   categories:
     - Unspecified
 - repo: fedora_rawhide
@@ -346,6 +348,20 @@
   categories:
     - Development/Tools/Other
 - repo: parrot
+  subrepo: parrot/main
+  srcname: goss
+  binnames:
+    - goss
+  visiblename: goss
+  version: 0.4.9
+  origversion: 0.4.9-2
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - lena.voytek@canonical.com
+  categories:
+    - misc
+- repo: parrot
   subrepo: parrot-updates/main
   srcname: goss
   binnames:
@@ -359,20 +375,20 @@
     - lena.voytek@canonical.com
   categories:
     - misc
-- repo: ubuntu_25_04
-  subrepo: plucky/universe
+- repo: pureos_landing
+  subrepo: landing/main
   srcname: goss
   binnames:
     - goss
   visiblename: goss
   version: 0.4.9
-  origversion: 0.4.9-1
+  origversion: 0.4.9-2
   status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
     - lena.voytek@canonical.com
   categories:
-    - universe/misc
+    - admin
 - repo: ubuntu_25_10
   subrepo: questing/universe
   srcname: goss
